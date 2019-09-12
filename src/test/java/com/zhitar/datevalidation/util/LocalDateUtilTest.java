@@ -1,4 +1,4 @@
-package com.zhitar.date_validation.util;
+package com.zhitar.datevalidation.util;
 
 import com.zhitar.datevalidation.exception.DateValidationException;
 import org.junit.Rule;
